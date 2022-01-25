@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/Demo.dir/fork.c.o CMakeFiles/Demo.dir/alarm.c.o CMakeFiles/Demo.dir/event.c.o CMakeFiles/Demo.dir/catch_child.c.o  -o Demo 

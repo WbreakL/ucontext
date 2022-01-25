@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/root/study/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/x86_64-redhat-linux-gcc-8    -g   -o CMakeFiles/Demo.dir/fork.c.o   -c /root/study/fork.c",
+  "file": "/root/study/fork.c"
+},
+{
+  "directory": "/root/study/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/x86_64-redhat-linux-gcc-8    -g   -o CMakeFiles/Demo.dir/alarm.c.o   -c /root/study/alarm.c",
+  "file": "/root/study/alarm.c"
+},
+{
+  "directory": "/root/study/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/x86_64-redhat-linux-gcc-8    -g   -o CMakeFiles/Demo.dir/event.c.o   -c /root/study/event.c",
+  "file": "/root/study/event.c"
+},
+{
+  "directory": "/root/study/build",
+  "command": "/opt/rh/devtoolset-8/root/usr/bin/x86_64-redhat-linux-gcc-8    -g   -o CMakeFiles/Demo.dir/catch_child.c.o   -c /root/study/catch_child.c",
+  "file": "/root/study/catch_child.c"
+}
+]
