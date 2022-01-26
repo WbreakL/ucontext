@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "ucontext.h": "c",
-        "signal.h": "c",
-        "functional": "c",
-        "threadpool.h": "c",
-        "sql_connection_pool.h": "c"
-    }
-}
